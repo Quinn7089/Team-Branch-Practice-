@@ -1,3 +1,3 @@
 Hi there,
 Name    : Yose
-Hobby   : Reading
+Hobby   : Reading, walking
